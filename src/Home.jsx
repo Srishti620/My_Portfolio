@@ -26,14 +26,7 @@ src="/srishti.jpeg"
 alt="Srishti"
 className="relative z-10 w-[300px] md:w-[340px] h-[500px] object-cover object-center rounded-[30px]"/>
 
-<div
-className="absolute bottom-5 left-5 bg-white px-5 py-3 rounded-2xl shadow-lg z-20">
-<p
-className="text-sm uppercase tracking-[3px] text-[#666]">
-Creative Developer
-</p>
 
-</div>
 
 </div>
 
@@ -47,18 +40,19 @@ Full Stack Developer
 </p>
 
 <h1
-className="text-[80px] md:text-[140px] font-black leading-[0.85] tracking-[-8px] text-black">
+className="text-[80px] md:text-[140px] font-black leading-[0.85]
+ tracking-[-8px] text-[#B7C9A8]">
 SRISHTI
-<br />
 SEHGAL
 </h1>
 
 <p
 className="mt-8 text-lg leading-9 text-[#333] max-w-xl">
-I design and build modern websites with
-clean interfaces, creative layouts and
-smooth user experiences that feel both
-aesthetic and functional.
+Passionate B.Tech Computer Science student with a strong 
+interest in web development and software engineering. 
+Skilled in building responsive and user-friendly applications
+ using modern technologies.
+
 </p>
 
 <div className="flex flex-wrap gap-5 mt-12">
@@ -67,8 +61,8 @@ aesthetic and functional.
 
 <button
 className="
-bg-black
-text-white
+bg-[#B7C9A8]
+text-black
 px-8
 py-4
 rounded-full
