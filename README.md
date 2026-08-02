@@ -1,152 +1,176 @@
 <div align="center">
 
-# 🌸 Srishti Sehgal
+# 🌸 Hi, I'm Srishti Sehgal 👋
 
-### Full Stack Developer | Computer Science Engineering Student
-
-A modern, responsive portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Computer+Science+Engineering+Student;React+%7C+Node.js+%7C+MongoDB;Building+Beautiful+Web+Experiences+✨" />
 
 <p>
-  <a href="https://github.com/Srishti620/My_Portfolio">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://my-portfolio-6nv6.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge" />
   </a>
-  <a href="YOUR_VERCEL_LINK">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+  <a href="https://github.com/Srishti620">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/sri-sehgal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-EA4C89?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  <a href="mailto:srishtisehgal2801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F48FB1?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 </div>
 
 ---
 
-# ✨ About the Project
+# 💖 About Me
 
-This is my personal developer portfolio showcasing my skills, projects, education, and experience in Full Stack Web Development.
+🎓 Final Year Computer Science Engineering Student
 
-The website features a clean UI, smooth animations, responsive layouts, and an easy way for recruiters and developers to explore my work.
+💻 Passionate Full Stack Developer
 
----
+🌸 I enjoy building modern, responsive, and user-friendly web applications that combine clean design with efficient functionality.
 
-# 🚀 Features
+🚀 Currently enhancing my skills in the MERN Stack while exploring AI-powered web applications.
 
-- 🌸 Modern UI
-- 📱 Fully Responsive
-- ⚡ Built with React + Vite
-- 🎨 Tailwind CSS Styling
-- ✨ Framer Motion Animations
-- 💼 Projects Showcase
-- 👩‍💻 Skills Section
-- 📄 Resume Download
-- 📬 Contact Section
+🎯 Seeking Software Development Internship and Full-Time Opportunities.
 
 ---
 
 # 🛠 Tech Stack
 
-| Frontend | Styling | Animation | Tools |
-|-----------|----------|-----------|-------|
-| React.js | Tailwind CSS | Framer Motion | Vite |
-| JavaScript | CSS3 | React Icons | Git |
-| HTML5 | Responsive Design | Lucide Icons | GitHub |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,java,python,html,css,tailwind,vite,mysql,git,github,vscode" />
+
+</p>
 
 ---
 
-# 📂 Folder Structure
+# 🚀 Featured Projects
 
-```
-My_Portfolio
-│
-├── public
-├── src
-│   ├── assets
-│   ├── components
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-```
+## 🌐 Personal Portfolio
+
+A modern developer portfolio showcasing my projects, skills, experience, and resume with elegant animations and responsive design.
+
+**Tech Stack**
+
+React • Vite • Tailwind CSS • Framer Motion
+
+🔗 **Live Demo**
+
+https://my-portfolio-6nv6.vercel.app
 
 ---
 
-# 💻 Getting Started
+## 🔍 Website Audit Tool
 
-Clone the repository
+A full-stack website auditing application that analyzes websites for SEO, accessibility, performance, and best practices.
 
-```bash
-git clone https://github.com/Srishti620/My_Portfolio.git
-```
+### Features
 
-Move into the project
+- SEO Analysis
+- Accessibility Checks
+- Lighthouse Performance
+- AI Visibility Score
+- Schema Detection
 
-```bash
-cd My_Portfolio
-```
+**Tech Stack**
 
-Install dependencies
-
-```bash
-npm install
-```
-
-Start development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
+React • Node.js • Express • Puppeteer • Cheerio
 
 ---
 
-# 📸 Preview
+## 📚 Book Buddy
 
-> Add screenshots of your portfolio here.
+An AI-powered learning platform for students that summarizes PDFs, answers questions, and provides voice explanations.
 
-Example:
+### Features
 
-```
-assets/
-portfolio-home.png
-portfolio-projects.png
-portfolio-contact.png
-```
+- PDF Upload
+- AI Summary
+- Question Answering
+- Voice Explanations
 
----
+**Tech Stack**
 
-# 📬 Contact
-
-**Srishti Sehgal**
-
-📧 Email: **YOUR_EMAIL**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/sri-sehgal
-
-🐙 GitHub:
-https://github.com/Srishti620
-
-🌐 Portfolio:
-YOUR_VERCEL_LINK
+React • Express • MongoDB • Groq API • ElevenLabs
 
 ---
 
-# ⭐ If you like this project
+## 📋 TaskNova
 
-Give it a ⭐ on GitHub!
+A smart task management application that helps users organize and prioritize daily tasks efficiently.
+
+### Features
+
+- Authentication
+- Task Prioritization
+- Progress Tracking
+- Dashboard
+
+**Tech Stack**
+
+React • Node.js • MongoDB • MySQL
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Srishti620&show_icons=true&theme=rose_pine&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Srishti620&theme=rose-pine&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti620&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:srishtisehgal2801@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4C89?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sri-sehgal">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Srishti620">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-6nv6.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FFB6C1?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-Made with ❤️ using React & Vite
+### 💗 *"Building meaningful digital experiences with clean code and creative ideas."*
+
+<img src="https://komarev.com/ghpvc/?username=Srishti620&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
