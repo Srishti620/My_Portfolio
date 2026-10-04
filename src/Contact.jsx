@@ -7,6 +7,7 @@ import {
 } from "react-icons/fa";
 import useReveal from "./useReveal";
 
+
 function Contact() {
   const [headerRef, headerVisible] = useReveal();
   const [linksRef, linksVisible] = useReveal();
@@ -146,14 +147,15 @@ function Contact() {
             Curious about my journey so far? Take a peek at my resume.
           </p>
 
-          <a
-            href="/Srishti_Sehgal_Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block rounded-full bg-[#EC4899] px-10 py-3 text-white shadow-[0_10px_30px_rgba(236,72,153,.35)] transition hover:scale-105 hover:bg-[#D66A96]"
-          >
-            View Resume
-          </a>
+          
+<a
+  href="/Srishti_Sehgal_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block rounded-full bg-[#EC4899] px-10 py-3 text-white shadow-[0_10px_30px_rgba(236,72,153,.35)] transition hover:scale-105 hover:bg-[#D66A96]"
+>
+  View Resume
+</a>
         </div>
       </div>
     </section>
